@@ -1,0 +1,10 @@
+C:\Users\Ali.Alizada\source\repos\06.05.2020_Multithreading\06.05.2020_Multithreading\bin\Debug\06.05.2020_Multithreading.exe.config
+C:\Users\Ali.Alizada\source\repos\06.05.2020_Multithreading\06.05.2020_Multithreading\bin\Debug\06.05.2020_Multithreading.exe
+C:\Users\Ali.Alizada\source\repos\06.05.2020_Multithreading\06.05.2020_Multithreading\bin\Debug\06.05.2020_Multithreading.pdb
+C:\Users\Ali.Alizada\source\repos\06.05.2020_Multithreading\06.05.2020_Multithreading\obj\Debug\06.05.2020_Multithreading.csprojAssemblyReference.cache
+C:\Users\Ali.Alizada\source\repos\06.05.2020_Multithreading\06.05.2020_Multithreading\obj\Debug\_06._05._2020_Multithreading.Form1.resources
+C:\Users\Ali.Alizada\source\repos\06.05.2020_Multithreading\06.05.2020_Multithreading\obj\Debug\_06._05._2020_Multithreading.Properties.Resources.resources
+C:\Users\Ali.Alizada\source\repos\06.05.2020_Multithreading\06.05.2020_Multithreading\obj\Debug\06.05.2020_Multithreading.csproj.GenerateResource.cache
+C:\Users\Ali.Alizada\source\repos\06.05.2020_Multithreading\06.05.2020_Multithreading\obj\Debug\06.05.2020_Multithreading.csproj.CoreCompileInputs.cache
+C:\Users\Ali.Alizada\source\repos\06.05.2020_Multithreading\06.05.2020_Multithreading\obj\Debug\06.05.2020_Multithreading.exe
+C:\Users\Ali.Alizada\source\repos\06.05.2020_Multithreading\06.05.2020_Multithreading\obj\Debug\06.05.2020_Multithreading.pdb
